@@ -19,5 +19,5 @@ using SQL queries and data visualization.
 ## How to Run
 1. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install matplotlib
 
